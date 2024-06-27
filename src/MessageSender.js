@@ -99,7 +99,7 @@ function MessageSender() {
                     </div>
 
                     <div className="modalBody">
-                        <textarea rows="5" placeholder="What's on your mind Mahabeer ?" onChange={e=>setMessage(e.target.value)}>{message}</textarea>
+                        <textarea rows="5" placeholder="What's on your mind Prajwal ?" onChange={e=>setMessage(e.target.value)}>{message}</textarea>
                     </div>
 
                     <div className="modalFooter">
